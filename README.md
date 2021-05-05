@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @davisp12, a Android Developer using languages like Kotlin/Java. I love solving problems and every way to solve them.
-- 👀 I’m interested in Android with Kotlin and Java
-- 🌱 I’m currently learning best production, mining, kotlin, java
-- 💞️ I’m looking to collaborate on projects of health or nonprofit 
 - 📫 How to reach me? davi.sp12@hotmail.com
 
 <br>
